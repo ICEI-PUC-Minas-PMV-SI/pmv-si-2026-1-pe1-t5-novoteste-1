@@ -12,13 +12,12 @@ authors:
     family-names: Nome Completo
     email: aluno@pucminas.br
     affiliation: PUC Minas
-  - given-names: Roberto
-    name-particle: 'B '
-    family-names: de Paula
+  - given-names: Roberto Felipe
+    family-names: Dias Ferreira da Rocha
     name-suffix: Prof.
-    email: hugo@pucminas.br
+    email: rocha@pucminas.br
     affiliation: PUC Minas
-    orcid: 'https://orcid.org/0000-0002-6193-3205'
+    
 repository-code: >-
   https://github.com/ICEI-PUC-Minas-PMV-SI/WebApplicationProject-Template
 abstract: >-
